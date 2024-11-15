@@ -1,4 +1,6 @@
+# EX 6
 # EDGE-DETECTION
+## DATE:
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
